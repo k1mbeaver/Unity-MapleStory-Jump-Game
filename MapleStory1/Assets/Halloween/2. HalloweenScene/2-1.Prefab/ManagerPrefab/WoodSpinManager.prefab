@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2310754898750941873
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2310754898750941875}
+  - component: {fileID: 2310754898750941872}
+  m_Layer: 0
+  m_Name: WoodSpinManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2310754898750941875
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2310754898750941873}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2310754898750941872
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2310754898750941873}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 198d30683fb13724bbe352092fbf2924, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  MyObject:
+  - {fileID: 5332132851332826501, guid: 9ede93bfe2ecf154c980668b16dbe2d2, type: 3}
+  - {fileID: 4714788338674956748, guid: 03401ff94ddd50b4fb1958c11d78af56, type: 3}
+  - {fileID: 24968136375198693, guid: 95b18ddb26e2e664d9b3967f01529d35, type: 3}
+  - {fileID: 3291201157965386714, guid: a593a6dd22e60d643bde67f876e6dc8b, type: 3}
+  - {fileID: 1938033669646631932, guid: 25c044d016d15fa4f80fc3c555d15834, type: 3}

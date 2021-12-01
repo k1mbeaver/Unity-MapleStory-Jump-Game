@@ -1,0 +1,13 @@
+sceneSetups:
+- path: Assets/Halloween/1. StartScene/Start.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Halloween/2. HalloweenScene/Halloween.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Halloween/3. EndScene/End.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
